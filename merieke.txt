@@ -1,0 +1,87 @@
+1 Aqueous Form
+1 Arcane Sanctum
+1 Archaeomancer
+1 Athreos, God of Passage
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Baleful Eidolon
+1 Caged Sun
+1 Chromatic Lantern
+1 Command Tower
+1 Commander's Sphere
+1 Crypt Ghast
+1 Cyclonic Rift
+1 Dark Impostor
+1 Darksteel Citadel
+1 Darksteel Ingot
+1 Daxos of Meletis
+1 Deathcult Rogue
+1 Diabolic Tutor
+1 Diluvian Primordial
+1 Dimir Guildgate
+1 Disciple of Griselbrand
+1 Dismal Backwater
+1 Divinity of Pride
+1 Doom Blade
+1 Dragonlord Silumgar
+1 Dromar's Cavern
+1 Esper Panorama
+1 Everflowing Chalice
+1 Evolving Wilds
+1 Explorer's Scope
+1 Far // Away
+1 Ghostly Touch
+1 Godless Shrine
+1 Halimar Depths
+1 Hero's Downfall
+1 Ink-Eyes, Servant of Oni
+1 Jwar Isle Refuge
+1 Kirtar's Wrath
+1 Lim-Dûl's Vault
+1 Malevolent Awakening
+1 Merieke Ri Berit
+1 Mind Extraction
+1 Neurok Commando
+1 Neurok Invisimancer
+1 Nevinyrral's Disk
+1 Nightveil Specter
+1 Obelisk of Esper
+1 Orzhov Basilica
+1 Orzhov Charm
+1 Orzhov Guildgate
+1 Pemmin's Aura
+1 Phantom Warrior
+1 Pontiff of Blight
+1 Ratchet Bomb
+1 Realmwright
+1 Rebuff the Wicked
+1 Reliquary Tower
+1 Rogue's Passage
+1 Rupture Spire
+1 Sadistic Hypnotist
+1 Sepulchral Primordial
+1 Shimmering Grotto
+1 Silent-Blade Oni
+1 Sin Collector
+1 Sol Ring
+1 Spectral Searchlight
+1 Stab Wound
+1 Stolen Goods
+1 Swiftfoot Boots
+1 Temple of Silence
+1 Temple of the False God
+1 Tormented Soul
+1 Trailblazer's Boots
+1 Transguild Promenade
+1 Treasury Thrull
+1 Triton Shorestalker
+1 Urborg, Tomb of Yawgmoth
+1 Vizkopa Confessor
+1 Walking Atlas
+1 War Priest of Thune
+1 Watery Grave
+1 Way of the Thief
+1 Wurmcoil Engine
+3 Plains
+6 Island
+7 Swamp

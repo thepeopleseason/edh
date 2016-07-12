@@ -1,0 +1,87 @@
+1 Abundant Growth
+1 Bane of Bala Ged
+1 Barrage Tyrant
+1 Blighted Cataract
+1 Blighted Fen
+1 Blighted Woodland
+1 Bloodstained Mire
+1 Breaker of Armies
+1 Brood Butcher
+1 Brood Monitor
+1 Call to the Kindred
+1 Canopy Vista
+1 Catacomb Sifter
+1 Cavern of Souls
+1 Chameleon Colossus
+1 Cinder Glade
+1 Conduit of Ruin
+1 Darksteel Ingot
+1 Decree of Annihilation
+1 Deepfathom Skulker
+1 Descendants' Path
+1 Desolation Twin
+1 Dread Defiler
+1 Dust Stalker
+1 Eaten by Spiders
+1 Eldrazi Obligator
+1 Endbringer
+1 Endless One
+1 Evolutionary Leap
+1 Evolving Wilds
+1 Fertile Thicket
+1 From Beyond
+1 Grip of Desolation
+1 Gruesome Slaughter
+1 Halimar Depths
+1 Hedron Archive
+1 Herald of Kozilek
+1 Karona, False God
+1 Kozilek's Channeler
+1 Languish
+1 Market Festival
+1 Mirror Entity
+1 Mortuary Mire
+1 Mutavault
+1 Naturalize
+1 Obelisk of Urd
+1 Opportunity
+1 Pathrazer of Ulamog
+1 Plummet
+1 Prairie Stream
+1 Pure // Simple
+1 Rain of Thorns
+1 Ruination Guide
+1 Ruins of Oran-Rief
+1 Sanctum of Ugin
+1 Sandstone Bridge
+1 See the Unwritten
+1 Seer's Sundial
+1 Shimmering Grotto
+1 Shrine of the Forsaken Gods
+1 Sifter of Skulls
+1 Skyline Cascade
+1 Slingbow Trap
+1 Smoldering Marsh
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spawning Bed
+1 Stoneforge Masterwork
+1 Titan's Presence
+1 Transguild Promenade
+1 Ulamog, the Ceaseless Hunger
+1 Verdant Haven
+1 Vile Aggregate
+1 Void Attendant
+1 Void Winnower
+1 Vow of Duty
+1 Vow of Flight
+1 Vow of Lightning
+1 Vow of Malice
+1 Vow of Wildness
+1 Warstorm Surge
+1 Zendikar Resurgent
+2 Island
+2 Plains
+3 Mountain
+3 Swamp
+8 Forest

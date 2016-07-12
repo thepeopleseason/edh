@@ -1,0 +1,84 @@
+1 Abundant Growth
+1 Amoeboid Changeling
+1 Azorius Guildgate
+1 Bonescythe Sliver
+1 Boros Guildgate
+1 Call to the Kindred
+1 Cavern of Souls
+1 Chameleon Colossus
+1 Darksteel Ingot
+1 Decree of Annihilation
+1 Descendants' Path
+1 Diffusion Sliver
+1 Dimir Guildgate
+1 Doom Blade
+1 Door to Nothingness
+1 Druidic Satchel
+1 Eaten by Spiders
+1 Elixir of Immortality
+1 Fungus Sliver
+1 Galerider Sliver
+1 Golgari Guildgate
+1 Groundshaker Sliver
+1 Gruul Guildgate
+1 Hive Stirrings
+1 Izzet Guildgate
+1 Karona, False God
+1 Lay of the Land
+1 Leeching Sliver
+1 Manaweft Sliver
+1 Mass Calcify
+1 Maze's End
+1 Megantic Sliver
+1 Mesmeric Sliver
+1 Meteorite
+1 Mirror Entity
+1 Mothdust Changeling
+1 Mutavault
+1 Naturalize
+1 Obelisk of Urd
+1 Opportunity
+1 Orzhov Guildgate
+1 Plummet
+1 Predatory Sliver
+1 Pure // Simple
+1 Rain of Thorns
+1 Rakdos Guildgate
+1 Rampant Growth
+1 Restore
+1 Riptide Replicator
+1 Rites of Flourishing
+1 Savage Beating
+1 Seek the Horizon
+1 Seer's Sundial
+1 Selesnya Guildgate
+1 Sentinel Sliver
+1 Shifting Sliver
+1 Shimmering Grotto
+1 Simic Guildgate
+1 Skeletal Changeling
+1 Slave of Bolas
+1 Slingbow Trap
+1 Sliver Construct
+1 Sliver Hive
+1 Steelform Sliver
+1 Striking Sliver
+1 Syphon Sliver
+1 Tempt with Discovery
+1 Thorncaster Sliver
+1 Transguild Promenade
+1 Venom Sliver
+1 Verdant Haven
+1 Vow of Duty
+1 Vow of Flight
+1 Vow of Lightning
+1 Vow of Malice
+1 Vow of Wildness
+1 Walking Atlas
+1 War-Spike Changeling
+3 Mountain
+3 Plains
+3 Swamp
+4 Island
+9 Forest
+Sideboard:

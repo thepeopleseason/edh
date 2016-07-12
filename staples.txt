@@ -1,0 +1,128 @@
+
+
+
+1 Arcane Lighthouse
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Azorius Signet
+1 Bant Panorama
+1 Blade of Selves
+1 Bloodfell Caves
+1 Bojuka Bog
+1 Boros Garrison
+1 Boros Guildgate
+1 Boros Signet
+1 Breeding Pool
+1 Caged Sun
+1 Cavern of Souls
+1 Caves of Koilos
+1 Chromatic Lantern
+1 Coldsteel Heart
+1 Command Beacon
+1 Command Tower
+1 Commander's Sphere
+1 Conjurer's Closet
+1 Cryptic Command
+1 Cyclonic Rift
+1 Darksteel Citadel
+1 Darksteel Ingot
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dimir Signet
+1 Dismal Backwater
+1 Door of Destinies
+1 Eldrazi Conscription
+1 Esper Panorama
+1 Evolving Wilds
+1 Fellwar Stone
+1 Flooded Strand
+1 Forgotten Cave
+1 Fortified Village
+1 From Beyond
+1 Ghost Quarter
+1 Godless Shrine
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Graypelt Refuge
+1 Grixis Panorama
+1 Gruul Guildgate
+1 Gruul Signet
+1 Gruul Turf
+1 Halimar Depths
+1 Homeward Path
+1 Illusionist's Bracers
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Izzet Signet
+1 Jund Panorama
+1 Jungle Hollow
+1 Lightning Greaves
+1 Llanowar Wastes
+1 Mana Confluence
+1 Maze's End
+1 Mutavault
+1 Naya Panorama
+1 Nevinyrral's Disk
+1 Omniscience
+1 Opal Palace
+1 Oran-Rief, the Vastwood
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Primal Vigor
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+1 Rakdos Signet
+1 Reliquary Tower
+1 Riptide Replicator
+1 Rogue's Passage
+1 Rugged Highlands
+1 Scoured Barrens
+1 Secluded Steppe
+1 Second Harvest
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Shinka, the Bloodsoaked Keep
+1 Shivan Reef
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Simic Signet
+1 Sol Ring
+1 Spectral Searchlight
+1 Spine of Ish Sah
+1 Spinerock Knoll
+1 Steel Hellkite
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Swiftwater Cliffs
+1 Temple of Abandon
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Malice
+1 Temple of Mystery
+1 Temple of Plenty
+1 Temple of Silence
+1 Temple of Triumph
+1 Temple of the False God
+1 Terrain Generator
+1 Terramorphic Expanse
+1 Thassa, God of the Sea
+1 Thornwood Falls
+1 Thought Vessel
+1 Tranquil Cove
+1 Tranquil Thicket
+1 Transguild Promenade
+1 Ulamog, the Ceaseless Hunger
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Incubator
+1 Vedalken Orrery
+1 Vivid Crag
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Marsh
+1 Vivid Meadow
+1 Wandering Fumarole
+1 Watery Grave
+1 Wind-Scarred Crag
+1 Wurmcoil Engine
+1 Yavimaya Coast

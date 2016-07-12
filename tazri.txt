@@ -1,0 +1,88 @@
+1 Ally Encampment
+1 Blighted Cataract
+1 Blighted Fen
+1 Blighted Woodland
+1 Bloodstained Mire
+1 Canopy Vista
+1 Cavern of Souls
+1 Cinder Glade
+1 Crumbling Vestige
+1 Evolving Wilds
+1 Fertile Thicket
+5 Forest
+1 Halimar Depths
+1 Hissing Quagmire
+1 Holdout Settlement
+1 Island
+1 Looming Spires
+1 Lumbering Falls
+1 Mortuary Mire
+2 Mountain
+1 Mutavault
+1 Needle Spires
+4 Plains
+1 Prairie Stream
+1 Sandstone Bridge
+1 Skyline Cascade
+1 Smoldering Marsh
+1 Swamp
+1 Transguild Promenade
+1 Angel of Renewal
+1 Angelic Captain
+1 Beastcaller Savant
+1 Bring to Light
+1 Call the Gatewatch
+1 Call to the Kindred
+1 Captain's Claws
+1 Cliffhaven Vampire
+1 Darksteel Ingot
+1 Descendants' Path
+1 Drana's Chosen
+1 Drana's Emissary
+1 Evolutionary Leap
+1 Firemantle Mage
+1 General Tazri
+1 Grovetender Druids
+1 Halimar Tidecaller
+1 Hedron Blade
+1 Hero of Goma Fada
+1 Jwari Shapeshifter
+1 Kiora, Master of the Depths
+1 Kor Bladewhirl
+1 Kor Entanglers
+1 Languish
+1 Magewright's Stone
+1 Make a Stand
+1 Market Festival
+1 Munda's Vanguard
+1 Munda, Ambush Leader
+1 Naturalize
+1 Nissa's Renewal
+1 Nissa, Vastwood Seer
+1 Oath of Gideon
+1 Oath of Jace
+1 Oath of Nissa
+1 Obelisk of Urd
+1 Oran-Rief Hydra
+1 Planar Outburst
+1 Quarantine Field
+1 Relief Captain
+1 Resolute Blademaster
+1 Retreat to Emeria
+1 Ruinous Path
+1 See the Unwritten
+1 Sol Ring
+1 Stoneforge Acolyte
+1 Stoneforge Masterwork
+1 Sweep Away
+1 Tajuru Warcaller
+1 Talus Paladin
+1 Tuktuk Scrapper
+1 Undergrowth Champion
+1 Unified Front
+1 Unity of Purpose
+1 Verdant Haven
+1 Veteran Warleader
+1 Warstorm Surge
+1 Zendikar Resurgent
+1 Zulaport Cutthroat
